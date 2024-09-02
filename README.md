@@ -1,4 +1,4 @@
-![](https://github.com/DAYIAWAN/Course-at-GB/blob/main/myTemplates/dev/myIcon.png?raw=true "")
+![](https://motoyama.one/mt-content/uploads/2016/08/image0.gif "")
 # <p style="text-align: center;">РЕЗЮМЕ</p>
 
 <a name="myTag_1"><h2>Приветствие</h2></a>
