@@ -24,8 +24,8 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/swaggo/files v0.0.0-20220610200504-28940afbdbfe // indirect
-	golang.org/x/net v0.0.0-20220615171555-694bf12d69de // indirect
-	golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/tools v0.1.11 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
